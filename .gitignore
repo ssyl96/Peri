@@ -1,0 +1,14 @@
+*.o
+*.cmd
+*.symvers
+*.gz
+*.tar
+*.zip
+*.swp
+*.order
+*.ko
+*.out
+*.x
+*.mod
+*.mod.c
+.tmp_versions/
